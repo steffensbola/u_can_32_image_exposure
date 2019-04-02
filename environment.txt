@@ -1,0 +1,18 @@
+#Pip
+
+Keras (2.2.2)
+Keras-Applications (1.0.7)
+Keras-Preprocessing (1.0.9)
+numpy (1.13.3)
+pandas (0.22.0)
+protobuf (3.6.1)
+scikit-cuda (0.5.2)
+scikit-image (0.13.1)
+scikit-learn (0.19.1)
+scipy (0.19.1)
+tensorflow-estimator (1.13.0)
+tensorflow-gpu (1.13.1)
+h5py (2.7.1)
+
+#Environment
+NVIDIA-SMI 418.43       Driver Version: 418.43       CUDA Version: 10.1
