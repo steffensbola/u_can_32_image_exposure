@@ -3,4 +3,16 @@ Saturation/underexposure/declipping CNN
 
 C. R. Steffens, V. Huttner, L. R. V. Messias, P. L. J. Drews-Jr and S. S. C. Botelho, R. S. Guerra
 
-Reference paper to be published in the procedings of the 26th IEEE International Conference on Image Processing (ICIP)
+If this work helps you in any way, please cite.
+
+
+```
+@inproceedings{steffens2019cnn,
+  title={CNN-Based Luminance And Color Correction For ILL-Exposed Images},
+  author={Steffens, CR and Huttner, V and Messias, LRV and Drews, PLJ and Botelho, SSC and Guerra, RS},
+  booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+  pages={3252--3256},
+  year={2019},
+  organization={IEEE}
+}
+```
