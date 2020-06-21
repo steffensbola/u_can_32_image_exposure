@@ -16,3 +16,8 @@ If this work helps you in any way, please cite.
   organization={IEEE}
 }
 ```
+
+
+We have also released a dataset to evaluate image restoration models on pairs of ill / properly exposed images.
+
+You can get it at [A6300 Multi-Exposure Dataset](https://github.com/steffensbola/a6300_multi_exposure_dataset).
